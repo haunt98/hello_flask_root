@@ -1,0 +1,7 @@
+python-dotenv
+flask
+Flask-SQLAlchemy
+PyMySQL
+authlib
+google-api-python-client
+google-auth
